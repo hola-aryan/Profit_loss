@@ -1,0 +1,11 @@
+body{
+    text-align: center;
+    background-color: salmon;
+}
+label{
+    display: block;
+    padding: 1rem;
+}
+input{
+    margin-left: 1rem;
+}
